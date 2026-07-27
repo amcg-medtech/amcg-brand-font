@@ -48,7 +48,7 @@ AMCG의 공식 브랜드 서체입니다. 국·영문이 함께 쓰이는 문서
 `fonts/web/` 의 woff2 와 `amcg.css` 를 배포한 뒤:
 
 ```html
-<link rel="stylesheet" href="/assets/amcg.css">
+<link rel="stylesheet" href="https://amcg.kr/assets/amcg.css">
 ```
 ```css
 body   { font-family: 'AMCG', sans-serif; }         /* 본문 */
