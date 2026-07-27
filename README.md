@@ -67,7 +67,8 @@ h1, h2 { font-family: 'AMCG Display', sans-serif; } /* 제목 */
 
 ## 라이선스
 
-[SIL Open Font License 1.1](https://scripts.sil.org/OFL). 본 서체는 Noto Sans KR 및 Outfit 를 사용하여 제작되었습니다. 전체 고지는 [`LICENSE.txt`](LICENSE.txt) 를 참고하세요.
+[SIL Open Font License 1.1](https://scripts.sil.org/OFL). \\
+본 서체는 Noto Sans KR 및 Outfit 를 사용하여 제작되었습니다. 전체 고지는 [`LICENSE.txt`](LICENSE.txt) 를 참고하세요.
 
 <div align="center">
 <sub>© AMCG</sub>
