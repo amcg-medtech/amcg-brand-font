@@ -9,6 +9,8 @@
 
 **AMCG 공식 브랜드 서체**
 
+[**amcg.kr**](https://amcg.kr)
+
 [![Version](https://img.shields.io/badge/version-1.0.0-FF6C00.svg)](../../releases/latest)
 ![Platform](https://img.shields.io/badge/platform-Windows_·_macOS_·_Web-002160.svg)
 ![Weights](https://img.shields.io/badge/weights-9-002160.svg)
@@ -68,5 +70,5 @@ h1, h2 { font-family: 'AMCG Display', sans-serif; } /* 제목 */
 [SIL Open Font License 1.1](https://scripts.sil.org/OFL). 본 서체는 Noto Sans KR 및 Outfit 를 사용하여 제작되었습니다. 전체 고지는 [`LICENSE.txt`](LICENSE.txt) 를 참고하세요.
 
 <div align="center">
-<sub>© AMCG · Navy <code>#002160</code> · Orange <code>#FF6C00</code></sub>
+<sub>© AMCG</sub>
 </div>
