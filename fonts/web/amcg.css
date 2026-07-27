@@ -1,0 +1,40 @@
+/*! AMCG Brand Webfont — amcg-medtech 배포판
+ * AMCG(혼합 +0.5pt@10pt) / AMCG Display(제목 +1.0pt@14pt) / AMCG EN(영문단독)
+ * local() 우선 → 없으면 https://amcg.kr/assets CDN 자동 로드 */
+
+/* 혼합 본문 */
+@font-face{font-family:'AMCG';font-style:normal;font-weight:100;font-display:swap;src:local('AMCG Thin'), local('AMCG-Thin'),url('https://amcg.kr/assets/amcg-thin.woff2') format('woff2');}
+@font-face{font-family:'AMCG';font-style:normal;font-weight:200;font-display:swap;src:local('AMCG ExtraLight'), local('AMCG-ExtraLight'),url('https://amcg.kr/assets/amcg-extralight.woff2') format('woff2');}
+@font-face{font-family:'AMCG';font-style:normal;font-weight:300;font-display:swap;src:local('AMCG Light'), local('AMCG-Light'),url('https://amcg.kr/assets/amcg-light.woff2') format('woff2');}
+@font-face{font-family:'AMCG';font-style:normal;font-weight:400;font-display:swap;src:local('AMCG'), local('AMCG-Regular'),url('https://amcg.kr/assets/amcg-regular.woff2') format('woff2');}
+@font-face{font-family:'AMCG';font-style:normal;font-weight:500;font-display:swap;src:local('AMCG Medium'), local('AMCG-Medium'),url('https://amcg.kr/assets/amcg-medium.woff2') format('woff2');}
+@font-face{font-family:'AMCG';font-style:normal;font-weight:600;font-display:swap;src:local('AMCG SemiBold'), local('AMCG-SemiBold'),url('https://amcg.kr/assets/amcg-semibold.woff2') format('woff2');}
+@font-face{font-family:'AMCG';font-style:normal;font-weight:700;font-display:swap;src:local('AMCG'), local('AMCG-Bold'),url('https://amcg.kr/assets/amcg-bold.woff2') format('woff2');}
+@font-face{font-family:'AMCG';font-style:normal;font-weight:800;font-display:swap;src:local('AMCG ExtraBold'), local('AMCG-ExtraBold'),url('https://amcg.kr/assets/amcg-extrabold.woff2') format('woff2');}
+@font-face{font-family:'AMCG';font-style:normal;font-weight:900;font-display:swap;src:local('AMCG Black'), local('AMCG-Black'),url('https://amcg.kr/assets/amcg-black.woff2') format('woff2');}
+
+/* 제목/큰글씨 */
+@font-face{font-family:'AMCG Display';font-style:normal;font-weight:100;font-display:swap;src:local('AMCG Display Thin'), local('AMCG-Display-Thin'),url('https://amcg.kr/assets/amcg-display-thin.woff2') format('woff2');}
+@font-face{font-family:'AMCG Display';font-style:normal;font-weight:200;font-display:swap;src:local('AMCG Display ExtraLight'), local('AMCG-Display-ExtraLight'),url('https://amcg.kr/assets/amcg-display-extralight.woff2') format('woff2');}
+@font-face{font-family:'AMCG Display';font-style:normal;font-weight:300;font-display:swap;src:local('AMCG Display Light'), local('AMCG-Display-Light'),url('https://amcg.kr/assets/amcg-display-light.woff2') format('woff2');}
+@font-face{font-family:'AMCG Display';font-style:normal;font-weight:400;font-display:swap;src:local('AMCG Display'), local('AMCG-Display-Regular'),url('https://amcg.kr/assets/amcg-display-regular.woff2') format('woff2');}
+@font-face{font-family:'AMCG Display';font-style:normal;font-weight:500;font-display:swap;src:local('AMCG Display Medium'), local('AMCG-Display-Medium'),url('https://amcg.kr/assets/amcg-display-medium.woff2') format('woff2');}
+@font-face{font-family:'AMCG Display';font-style:normal;font-weight:600;font-display:swap;src:local('AMCG Display SemiBold'), local('AMCG-Display-SemiBold'),url('https://amcg.kr/assets/amcg-display-semibold.woff2') format('woff2');}
+@font-face{font-family:'AMCG Display';font-style:normal;font-weight:700;font-display:swap;src:local('AMCG Display'), local('AMCG-Display-Bold'),url('https://amcg.kr/assets/amcg-display-bold.woff2') format('woff2');}
+@font-face{font-family:'AMCG Display';font-style:normal;font-weight:800;font-display:swap;src:local('AMCG Display ExtraBold'), local('AMCG-Display-ExtraBold'),url('https://amcg.kr/assets/amcg-display-extrabold.woff2') format('woff2');}
+@font-face{font-family:'AMCG Display';font-style:normal;font-weight:900;font-display:swap;src:local('AMCG Display Black'), local('AMCG-Display-Black'),url('https://amcg.kr/assets/amcg-display-black.woff2') format('woff2');}
+
+/* 영문 단독 */
+@font-face{font-family:'AMCG EN';font-style:normal;font-weight:100;font-display:swap;src:local('AMCG EN Thin'), local('AMCG-EN-Thin'),url('https://amcg.kr/assets/amcg-en-thin.woff2') format('woff2');}
+@font-face{font-family:'AMCG EN';font-style:normal;font-weight:200;font-display:swap;src:local('AMCG EN ExtraLight'), local('AMCG-EN-ExtraLight'),url('https://amcg.kr/assets/amcg-en-extralight.woff2') format('woff2');}
+@font-face{font-family:'AMCG EN';font-style:normal;font-weight:300;font-display:swap;src:local('AMCG EN Light'), local('AMCG-EN-Light'),url('https://amcg.kr/assets/amcg-en-light.woff2') format('woff2');}
+@font-face{font-family:'AMCG EN';font-style:normal;font-weight:400;font-display:swap;src:local('AMCG EN'), local('AMCG-EN-Regular'),url('https://amcg.kr/assets/amcg-en-regular.woff2') format('woff2');}
+@font-face{font-family:'AMCG EN';font-style:normal;font-weight:500;font-display:swap;src:local('AMCG EN Medium'), local('AMCG-EN-Medium'),url('https://amcg.kr/assets/amcg-en-medium.woff2') format('woff2');}
+@font-face{font-family:'AMCG EN';font-style:normal;font-weight:600;font-display:swap;src:local('AMCG EN SemiBold'), local('AMCG-EN-SemiBold'),url('https://amcg.kr/assets/amcg-en-semibold.woff2') format('woff2');}
+@font-face{font-family:'AMCG EN';font-style:normal;font-weight:700;font-display:swap;src:local('AMCG EN'), local('AMCG-EN-Bold'),url('https://amcg.kr/assets/amcg-en-bold.woff2') format('woff2');}
+@font-face{font-family:'AMCG EN';font-style:normal;font-weight:800;font-display:swap;src:local('AMCG EN ExtraBold'), local('AMCG-EN-ExtraBold'),url('https://amcg.kr/assets/amcg-en-extrabold.woff2') format('woff2');}
+@font-face{font-family:'AMCG EN';font-style:normal;font-weight:900;font-display:swap;src:local('AMCG EN Black'), local('AMCG-EN-Black'),url('https://amcg.kr/assets/amcg-en-black.woff2') format('woff2');}
+
+.amcg{font-family:'AMCG',sans-serif}
+.amcg-display{font-family:'AMCG Display',sans-serif}
+.amcg-en{font-family:'AMCG EN',sans-serif}
