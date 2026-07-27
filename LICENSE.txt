@@ -1,0 +1,22 @@
+﻿AMCG 브랜드 서체 — 사용 계약 및 오픈폰트 라이선스 고지
+
+본 서체(AMCG · AMCG Display · AMCG EN)는 아래 오픈폰트(Open Font)를
+병합·가공하여 제작되었습니다.
+
+  · Noto Sans KR  — (C) Google,  SIL Open Font License 1.1
+  · Outfit        — (C) Outfit Project,  SIL Open Font License 1.1
+
+[ 라이선스 ]
+본 서체는 위 원본과 동일하게 SIL Open Font License, Version 1.1 (OFL-1.1)
+조건에 따라 배포되는 '오픈폰트'입니다.
+
+[ 사용 조건 ]
+ 1. 개인·기업·상업적 용도로 자유롭게 설치·사용·임베드(문서/웹/인쇄)할 수 있습니다.
+ 2. 무료로 재배포할 수 있으며, 재배포 시 본 라이선스 고지를 포함해야 합니다.
+ 3. 폰트 파일 자체를 단독 상품으로 판매할 수 없습니다.
+ 4. 저작권·라이선스 표기를 제거하거나 변경할 수 없습니다.
+
+본 설치 프로그램을 실행하여 폰트를 설치하면, 위 오픈폰트 라이선스(OFL-1.1)
+조건에 동의하는 것으로 간주됩니다.
+
+OFL 전문(원문): https://scripts.sil.org/OFL
